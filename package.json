@@ -1,0 +1,12 @@
+{
+  "name": "Simple-Web-Crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Julio Anastacio Pereira Neto <julio.neto581@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9",
+    "puppeteer": "^10.1.0"
+  }
+}
